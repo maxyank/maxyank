@@ -42,8 +42,10 @@ Here's something about me:
 <a href="mailto:mayankshukla547019@gmail.com?hl=en" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%23DC493C.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a> 
+<a href="https://www.linkedin.com/in/mayank-shukla-23b9b7265/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
 </a>
+
 </br>
 </div>
 
